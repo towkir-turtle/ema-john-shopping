@@ -1,0 +1,12 @@
+.cartItem {
+  margin-top: 30px;
+  text-align: left;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  span {
+    font-size: 18px;
+  }
+}
