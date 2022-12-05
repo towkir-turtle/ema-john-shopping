@@ -32,7 +32,6 @@ const Shop = () => {
         ))}
       </div>
       <div className={style.cart__container}>
-        <span className={style.cart__title}>Order Summary</span>
         <Cart cart={cart}></Cart>
       </div>
     </div>
